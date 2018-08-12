@@ -1,2 +1,3 @@
 # Keras_GAN
-A simple Generative adversarial Network designed using Keras
+
+A simple Generative Adversarial Network designed using Keras API with Tensorflow backend.
